@@ -1,4 +1,4 @@
-# selfbot
+# python sb.py
 
 apt update
 apt upgrade
